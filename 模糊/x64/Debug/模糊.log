@@ -1,0 +1,19 @@
+﻿  Fuzzy.c
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(7,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(73,76): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(91,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(96,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(101,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(106,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(111,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(116,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(136,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(141,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(146,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(151,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(156,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(161,17): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(286,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(391,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c语言工程文件\模糊\模糊\Fuzzy.c(496,68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  模糊.vcxproj -> D:\c语言工程文件\模糊\x64\Debug\模糊.exe
